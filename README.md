@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daniel-CS00
 - 👀 I’m interested in Computer Science (SW) and CyberSecurity
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning Java,Python,lua
 - 💞️ I’m looking to collaborate on Projects, even Scripting/Full Stack
 - 📫 How to reach me ... email- Danielolacollege@gmail.com
 
