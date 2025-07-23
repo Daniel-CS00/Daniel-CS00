@@ -5,7 +5,7 @@ I’m a dedicated student with a strong passion for Computer Science and Cyberse
 
 ## 🙋‍♂️ About Me
 - I’m currently a junior at Bard High School Early College in Newark, NJ.
-- I enjoy coding, boxing, gaming, and experimenting with tech tools and design (like Figma).
+- I enjoy coding, soccer, gaming, and experimenting with tech tools and design (like Figma).
 - I’m also into fragrances, smelling good is part of the daily routine!
 
 ## 🎓 Education Highlights
